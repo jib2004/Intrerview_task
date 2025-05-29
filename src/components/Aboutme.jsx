@@ -13,10 +13,10 @@ const Aboutme = () => {
             </div>
 
             <ul className='flex gap-4 text-[1.5rem] '>
-                <li>About Me</li>
-                <li>Skills</li>
-                <li>Hobbies & Interests</li>
-                <li>Academic Backgound</li>
+                <li className='cursor-pointer'>About Me</li>
+                <li className='cursor-pointer'>Skills</li>
+                <li className='cursor-pointer'>Hobbies & Interests</li>
+                <li className='cursor-pointer'>Academic Backgound</li>
             </ul>
         </nav>
 
